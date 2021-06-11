@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @6demon89
+- 👀 I’m interested in desktop and mobile development, preferable based on dotnet
+- 🌱 I’m currently improving my learning skills for faster understanding of different domains
+- 📫 How to reach me over Skype or VK.Com
